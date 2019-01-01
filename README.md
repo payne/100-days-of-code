@@ -1,5 +1,3 @@
-## 100 Days Of Code - Log - MattPayne.org
-
 This repository started as a fork of [Kallaway's](https://github.com/Kallaway/100-days-of-code); I've tweaked it so it looks ok via GitHub
 pages and I'm putting the log in reverse chronological order.
 
