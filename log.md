@@ -1,30 +1,23 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code - Log - MattPayne.org
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+This repository started as a fork of [Kallaway's](https://github.com/Kallaway/100-days-of-code); I've tweaked it so it looks ok via GitHub
+pages and I'm putting the log in reverse chronological order.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+My goals for these [100 days of Code](https://www.100daysofcode.com/) include:
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+1. A focus on https://learn.freecodecamp.org/ (I'm starting with [448 points](https://www.freecodecamp.org/payne).
+2. If there is time or inclination, progress on some open source applications that use FireBase.com:
+   a. Omaha Tech Ambasadors 
+   b. Road Chassers
+   c. Journalling application
+   d. Tracey's Grid application
 
-**Link to work:** [Calculator App](http://www.example.com)
+### Day 0: Tue Jan  1 14:26:42 STD 2019
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Today's Progress**: Setup this page and work some on FreeCodeCamp.com
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Thoughts:** I'm not good at new years resolutions and will be delighted if this works!
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Link to work:** 
+1. [Calculator App](http://www.example.com)
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
