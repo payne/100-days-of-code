@@ -13,12 +13,20 @@
   <p id="description">Let me know how Omaha can be improved?</p>
 
   <form id="survey-form">
-     <label for="name" id="name-label">Name:</label>
-     <input type="text" id="name" required placeholder="Your name, please"></input>
+     <ul>
+       <li>
+	 <label for="name" id="name-label">Name:</label>
+	 <input type="text" id="name" required placeholder="Your name, please"></input>
+       </li>
+       <li>
      <label for="email" id="email-label">Email:</label>
      <input type="email" id="email" required placeholder="Your email, too, please"></input>
+       </li>
+       <li>
      <label for="number" id="number-label">Years in Omaha:</label>
      <input type="number" id="number" min="0" max="110" required placeholder="How many years have you lived in Omaha?"></input>
+       </li>
+       <li>
      <label for="dropdown" id="dropdown-label">What is it you do here?</label>
      <select id="dropdown">
        <option>Computer Programmer</option>
@@ -26,17 +34,25 @@
        <option>Manager</option>
        <option>Student</option>
      </select>
-    <p>How likely are you to recomend Omaha to a friend?</p>
+       </li>
+       <li>
+     <label for="nps">How likely are you to recomend Omaha to a friend?</label>
+    <div id="nps">
     <input type="radio" id="nps-highly" name="nps" value="highly"><label for="nps-highly">Highly</label>
     <input type="radio" id="nps-meh" name="nps" value="meh"><label for="nps-meh">Meh</label>
     <input type="radio" id="nps-noWay" name="nps" value="noWay"><label for="nps-noWay">No way!</label>
+    </div>
+       </li>
+       <li>
     <p>Things that can be improved about Omaha?  Check all that apply:</p>
     <input type="checkbox" id="computer-clubs" value="computer-clubs"><label for="computer-clubs">Computer Clubs</label>
     <input type="checkbox" id="computer-workshops" value="computer-workshops"><label for="computer-workshops">Computer Workshops</label>
     <input type="checkbox" id="university-classes" value="university-classes"><label for="university-classes">University Classes</label>
     <label for="suggestions">Suggestions?</label>
-    <textarea id="suggestions" rows=10 columns=60></textarea>
-    <button id="submit" type="submit">Submit</button>
+       </li> 
+    </ul>
+    <textarea id="suggestions" rows=10 cols=60></textarea>
+    <div><button id="submit" type="submit">Submit</button></div>
   </form>
 
 
