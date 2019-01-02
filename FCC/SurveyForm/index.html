@@ -3,17 +3,42 @@
 
 <head>
   <meta charset="UTF-8">
-  <title>Fork Me! FCC: Test Suite Template</title>
-  
-  
-  
-  
-  
+  <title>Survey Form by MattPayneOrg</title>
 </head>
 
 <body>
-
   <script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
+  <h1 id="title">Survey Form by MattPayneOrg</h1>
+
+  <p id="description">Let me know how Omaha can be improved?</p>
+
+  <form id="survey-form">
+     <label for="name" id="name-label">Name:</label>
+     <input type="text" id="name" required placeholder="Your name, please"></input>
+     <label for="email" id="email-label">Email:</label>
+     <input type="email" id="email" required placeholder="Your email, too, please"></input>
+     <label for="number" id="number-label">Years in Omaha:</label>
+     <input type="number" id="number" min="0" max="110" required placeholder="How many years have you lived in Omaha?"></input>
+     <label for="dropdown" id="dropdown-label">What is it you do here?</label>
+     <select id="dropdown">
+       <option>Computer Programmer</option>
+       <option>Analyst</option>
+       <option>Manager</option>
+       <option>Student</option>
+     </select>
+    <p>How likely are you to recomend Omaha to a friend?</p>
+    <input type="radio" id="nps-highly" name="nps" value="highly"><label for="nps-highly">Highly</label>
+    <input type="radio" id="nps-meh" name="nps" value="meh"><label for="nps-meh">Meh</label>
+    <input type="radio" id="nps-noWay" name="nps" value="noWay"><label for="nps-noWay">No way!</label>
+    <p>Things that can be improved about Omaha?  Check all that apply:</p>
+    <input type="checkbox" id="computer-clubs" value="computer-clubs"><label for="computer-clubs">Computer Clubs</label>
+    <input type="checkbox" id="computer-workshops" value="computer-workshops"><label for="computer-workshops">Computer Workshops</label>
+    <input type="checkbox" id="university-classes" value="university-classes"><label for="university-classes">University Classes</label>
+    <label for="suggestions">Suggestions?</label>
+    <textarea id="suggestions" rows=10 columns=60></textarea>
+    <button id="submit" type="submit">Submit</button>
+  </form>
+
 
 <!-- 
 
@@ -27,11 +52,12 @@ For now, the test suite only works in Chrome! Please read the README below in th
   
   
 
-    <script  src="js/index.js"></script>
-
-
-
-
+<script  src="js/index.js"></script>
+<script type="text/javascript">
+  document.addEventListener("DOMContentLoaded", function(event) {
+    FCC_Global.selectProject("survey-form");
+  });
+</script>
 </body>
 
 </html>
