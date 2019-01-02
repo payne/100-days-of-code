@@ -6,10 +6,12 @@ My goals for these [100 days of Code](https://www.100daysofcode.com/) include:
 1. A focus on https://learn.freecodecamp.org/ I'm starting with [448 points](https://www.freecodecamp.org/payne).
 2. If there is time or inclination, progress on some open source applications that use FireBase.com:
 
-   a. Omaha Tech Ambasadors
-   b. Road Chassers
-   c. Journalling application
-   d. Tracey's Grid application
+### Firebase ideas
+
+1. Omaha Tech Ambasadors
+2. Road Chassers
+3. Journalling application
+4. Tracey's Grid application
 
 ### Day 0: Tue Jan 1 14:26:42 STD 2019
 
