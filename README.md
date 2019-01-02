@@ -1,5 +1,5 @@
 This repository started as a fork of [Kallaway's](https://github.com/Kallaway/100-days-of-code); I've tweaked it so it looks ok via GitHub
-pages and I'm putting the log in reverse chronological order.
+pages and I'm putting the log in reverse chronological order.  I'll also track things on [CodeHalf](https://codehalf.com/dashboard).
 
 My goals for these [100 days of Code](https://www.100daysofcode.com/) include:
 
@@ -17,6 +17,8 @@ My goals for these [100 days of Code](https://www.100daysofcode.com/) include:
 **Thoughts:** I'm not good at new years resolutions and will be delighted if this works!
 
 **Link to work:** 
-1. [Survey Form](http://mattpayne.org/100-days-of-code/FCC/SurveyForm/) -- [source code](https://github.com/payne/100-days-of-code/tree/master/FCC/SurveyForm)
+1. [Survey Form](http://mattpayne.org/100-days-of-code/FCC/SurveyForm/) -- [source code](https://github.com/payne/100-days-of-code/tree/master/FCC/SurveyForm) -- [specification](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-survey-form/)
+
+
 
 
