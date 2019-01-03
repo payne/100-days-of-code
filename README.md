@@ -15,6 +15,16 @@ My goals for these [100 days of Code](https://www.100daysofcode.com/) include:
 
 ### Day 1: Wed Jan  2 18:31:21 STD 2019
 
+**Today's Progress**: Worked part of the FCC Product Landing Page
+
+**Thoughts:** Didn't sleep well last night; I'm tired.  Doing this anyway.
+
+**Link to work:**
+
+1. [Product Landing Page](http://mattpayne.org/100-days-of-code/FCC/ProductLandingPage/) -- [source code](https://github.com/payne/100-days-of-code/tree/master/FCC/ProductLandingPage) -- [specification](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page)
+
+**Time:** X hours
+
 
 ### Day 0: Tue Jan 1 14:26:42 STD 2019
 
