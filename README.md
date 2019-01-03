@@ -13,7 +13,7 @@ My goals for these [100 days of Code](https://www.100daysofcode.com/) include:
 3. Journalling application
 4. Tracey's Grid application
 
-### Day 1: Wed Jan  2 18:31:21 STD 2019
+### Day 2: Wed Jan  2 18:31:21 STD 2019
 
 **Today's Progress**: Worked part of the FCC Product Landing Page
 
@@ -26,7 +26,7 @@ My goals for these [100 days of Code](https://www.100daysofcode.com/) include:
 **Time:** 1 hours
 
 
-### Day 0: Tue Jan 1 14:26:42 STD 2019
+### Day 1: Tue Jan 1 14:26:42 STD 2019
 
 **Today's Progress**: Setup this page and work some on FreeCodeCamp.com
 
