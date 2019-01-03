@@ -17,13 +17,13 @@ My goals for these [100 days of Code](https://www.100daysofcode.com/) include:
 
 **Today's Progress**: Worked part of the FCC Product Landing Page
 
-**Thoughts:** Didn't sleep well last night; I'm tired.  Doing this anyway.
+**Thoughts:** Didn't sleep well last night; I'm tired.  Doing this anyway.   Things look bad now (no CSS yet).  I'm looking forward to making it look good!  ;-)
 
 **Link to work:**
 
 1. [Product Landing Page](http://mattpayne.org/100-days-of-code/FCC/ProductLandingPage/) -- [source code](https://github.com/payne/100-days-of-code/tree/master/FCC/ProductLandingPage) -- [specification](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page)
 
-**Time:** X hours
+**Time:** 1 hours
 
 
 ### Day 0: Tue Jan 1 14:26:42 STD 2019
