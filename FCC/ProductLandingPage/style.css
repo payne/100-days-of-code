@@ -1,0 +1,10 @@
+
+#nav-bar {
+  position: fixed;
+  top: 0px;
+  width: 500px;
+  margin: 0 auto;
+  background: white;
+  padding: 10px;
+}
+
