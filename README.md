@@ -13,6 +13,19 @@ My goals for these [100 days of Code](https://www.100daysofcode.com/) include:
 3. Journalling application
 4. Tracey's Grid application
 
+### Day 3: Thu Jan  3 18:16:52 STD 2019
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:**
+
+1. [Product Landing Page](http://mattpayne.org/100-days-of-code/FCC/ProductLandingPage/) -- [source code](https://github.com/payne/100-days-of-code/tree/master/FCC/ProductLandingPage) -- [specification](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page)
+
+**Time:** 
+
+
 ### Day 2: Wed Jan  2 18:31:21 STD 2019
 
 **Today's Progress**: Worked part of the FCC Product Landing Page
