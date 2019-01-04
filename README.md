@@ -15,15 +15,15 @@ My goals for these [100 days of Code](https://www.100daysofcode.com/) include:
 
 ### Day 3: Thu Jan  3 18:16:52 STD 2019
 
-**Today's Progress**: 
+**Today's Progress**: Few more tests passing; now it's 14/16 tests passing.  Tomorrow media queries and flex box.
 
-**Thoughts:** 
+**Thoughts:**  I'm thankful for https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Positioning
 
 **Link to work:**
 
 1. [Product Landing Page](http://mattpayne.org/100-days-of-code/FCC/ProductLandingPage/) -- [source code](https://github.com/payne/100-days-of-code/tree/master/FCC/ProductLandingPage) -- [specification](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page)
 
-**Time:** 
+**Time:** 1.23 hours
 
 
 ### Day 2: Wed Jan  2 18:31:21 STD 2019
