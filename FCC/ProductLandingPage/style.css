@@ -4,6 +4,11 @@
   }
 }
 
+#box-container {
+   height: 500px;
+   display: flex;
+}
+
 #nav-bar {
   position: fixed;
   top: 0px;
