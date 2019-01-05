@@ -1,8 +1,13 @@
+@media (max-width: 350px) {
+  :root {
+     --nav-width: 200px
+  }
+}
 
 #nav-bar {
   position: fixed;
   top: 0px;
-  width: 500px;
+  width: var(--nav-width,500px);
   margin: 0 auto;
   background: white;
   padding: 10px;
