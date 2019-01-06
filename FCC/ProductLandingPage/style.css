@@ -1,3 +1,16 @@
+body {
+  width: 500px;
+  margin: 0 auto;
+  position: relative;
+}
+
+.positioned {
+  position: absolute;
+  background: yellow;
+  top: 100px;
+  left: 30px;
+}
+
 @media (max-width: 350px) {
   :root {
      --nav-width: 200px
