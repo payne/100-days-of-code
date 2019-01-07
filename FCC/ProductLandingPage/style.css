@@ -1,15 +1,3 @@
-body {
-  width: 500px;
-  margin: 0 auto;
-  position: relative;
-}
-
-.positioned {
-  position: absolute;
-  background: yellow;
-  top: 100px;
-  left: 30px;
-}
 
 @media (max-width: 350px) {
   :root {
@@ -22,12 +10,29 @@ body {
    display: flex;
 }
 
-#nav-bar {
+/* https://codetheweb.blog/2017/12/12/style-a-navigation-bar-css/ 
+ * is a tutorial that helped alot!
+ */
+
+header {
+  width: 300px;
+  background-color: green;
   position: fixed;
-  top: 0px;
-  width: var(--nav-width,500px);
-  margin: 0 auto;
-  background: white;
-  padding: 10px;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 100px;
 }
 
+body { 
+  width: 500px;
+  margin: 0 auto;
+  position: relative;
+  left: 30px;
+} 
+
+
+.positioned {
+  /* height: 125vh; */
+  margin-top: 100px;
+}
