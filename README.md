@@ -13,6 +13,19 @@ My goals for these [100 days of Code](https://www.100daysofcode.com/) include:
 3. Journalling application
 4. Tracey's Grid application
 
+
+### Day 7: Mon Jan  7 19:56:43 STD 2019
+
+**Today's Progress**:  Worked problems in [JavaScript & Data Structures](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6)
+
+**Thoughts:**  These problems are much more fun than dealing with my lack of CSS skills.
+
+**Link to work:**
+
+1. [448 points](https://www.freecodecamp.org/payne).
+
+**Time:** 1 hours
+
 ### Day 6: Sun Jan  6 19:43:27 STD 2019
 
 **Today's Progress**: 16/16 tests passing.  Page looks ok.  Not great, but ok.
