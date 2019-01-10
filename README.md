@@ -14,6 +14,35 @@ My goals for these [100 days of Code](https://www.100daysofcode.com/) include:
 4. Tracey's Grid application
 
 
+
+
+
+### Day 7: Wed Jan  9 21:19:59 STD 2019
+
+**Today's Progress**:  Got https://blog.angularindepth.com/angular-cdk-tables-1537774d7c99 working in my Angular Firebase project.
+
+**Thoughts:**  Got the code working in my AngularFirebase code locally!  YAY!! Navigating the modules is a bit tricky.  
+Especially since I've been away for a minute.
+
+**Link to work:**
+
+1. https://github.com/payne/f2 and it is live here: https://matt-f2.firebaseapp.com/notes
+
+**Time:** 2 hours
+
+### Day 8: Tue Jan  8 19:56:43 STD 2019
+
+**Today's Progress**:  Angular refresh
+
+**Thoughts:**  Coming back up to speed on some angular and AngularFirebase
+
+**Link to work:**
+
+1. 
+
+**Time:** 1 hours
+
+
 ### Day 7: Mon Jan  7 19:56:43 STD 2019
 
 **Today's Progress**:  Worked problems in [JavaScript & Data Structures](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6)
