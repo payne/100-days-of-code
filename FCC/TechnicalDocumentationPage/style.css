@@ -1,0 +1,38 @@
+
+@media (max-width: 350px) {
+  :root {
+     --nav-width: 200px
+  }
+}
+
+#box-container {
+   height: 500px;
+   display: flex;
+}
+
+/* https://codetheweb.blog/2017/12/12/style-a-navigation-bar-css/ 
+ * is a tutorial that helped alot!
+ */
+
+header {
+  width: 300px;
+  background-color: green;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 100px;
+}
+
+body { 
+  width: 500px;
+  margin: 0 auto;
+  position: relative;
+  left: 30px;
+} 
+
+
+.positioned {
+  /* height: 125vh; */
+  margin-top: 100px;
+}
